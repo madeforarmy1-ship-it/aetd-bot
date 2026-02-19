@@ -1,0 +1,14 @@
+{
+  "name": "aetd-bgc-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.0"
+  }
+}
